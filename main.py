@@ -47,3 +47,11 @@ result = [i for i in lst1 if i in lst2]
 
 print(result)
 
+
+#sum
+
+test = [1,2,3,4,5]
+
+weAreSuming = sum(test)
+
+print(weAreSuming)
